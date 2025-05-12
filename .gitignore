@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# 일반적인 임시 파일들
+*.user
+*.suo
+*.cache
+*.vsidx

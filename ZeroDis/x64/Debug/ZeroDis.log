@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\서진호\Documents\ZeroDis\ZeroDis\ZeroDis\main.cpp(64,22): warning C4566: 유니버설 문자 이름 '\u274C'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\서진호\Documents\ZeroDis\ZeroDis\ZeroDis\main.cpp(111,26): warning C4566: 유니버설 문자 이름 '\u274C'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\서진호\Documents\ZeroDis\ZeroDis\ZeroDis\main.cpp(115,22): warning C4566: 유니버설 문자 이름 '\U0001F4BE'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  LINK : C:\Users\서진호\Documents\ZeroDis\ZeroDis\x64\Debug\ZeroDis.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  ZeroDis.vcxproj -> C:\Users\서진호\Documents\ZeroDis\ZeroDis\x64\Debug\ZeroDis.exe
